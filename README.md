@@ -18,13 +18,16 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
+#### Desktop View
 ![desktop-design-solution](/design/desktop-design-solution.png)
+
+#### Mobile View
 ![mobile-design-solution](/design/mobile-design-solution.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://recipe-page-main-project.netlify.app/)
 
 ## My process
 
