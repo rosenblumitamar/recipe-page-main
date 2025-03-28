@@ -1,0 +1,32 @@
+/* media queries styles */
+@media all and (max-width: 601px) {
+  header {
+    margin-top: 0;
+    padding-top: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+
+  header,
+  main {
+    width: 100%;
+  }
+
+  main {
+    margin-bottom: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  header {
+    padding: 0;
+  }
+
+  header h1,
+  header p {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+
+  img { border-radius: 0; }
+}
