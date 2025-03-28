@@ -19,8 +19,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](design/desktop-design-solution.png.png)
-![](design/mobile-design-solution.png.png)
+![desktop-design-solution](/design/desktop-design-solution.png)
+![mobile-design-solution](/design/mobile-design-solution.png)
 
 ### Links
 
