@@ -26,7 +26,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/recipe-page-solution-OLnxo1dZgo)
 - Live Site URL: [Add live site URL here](https://recipe-page-main-project.netlify.app/)
 
 ## My process
@@ -48,7 +48,7 @@ box-sizing: border-box property, includes the padding and border in the total wi
 }
 ```
 
-The ::marker CSS pseudo-element - selects the marker box of a list item (buller or marker).
+The ::marker CSS pseudo-element - selects the marker box of a list item (bullet or marker).
 ```css
 li::marker {
   font-weight: bold;
